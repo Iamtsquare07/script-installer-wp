@@ -1,4 +1,4 @@
-# Script Installer plugi for WordPress v1.0.0
+# Script Installer plugin for WordPress v1.0.0
 
 This plugin put scripts in the website's head, body, or footer.
 
